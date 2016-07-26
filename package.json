@@ -1,0 +1,15 @@
+{
+  "name": "sprites-demo",
+  "version": "0.0.1",
+  "description": "fis sprite support rem",
+  "keywords": [
+    "fis",
+    "demo"
+  ],
+  "repository": "https://github.com/hefangshi/fis-quickstart-demo",
+  "license": "MIT",
+  "devDependencies": {
+    "emilia": "^0.1.0",
+    "fis3-spriter-emilia": "^0.0.2"
+  }
+}

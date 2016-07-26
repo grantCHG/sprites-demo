@@ -1,0 +1,25 @@
+.icon{
+	width:32px;
+	height:32px;
+	-webkit-background-size: 100% auto;
+	background-size: 100% auto;
+}
+.icon1{
+	background: url(images/icon_01.gif?_icon) no-repeat;
+	background-position: 2px 2px;
+}
+.icon2{
+	background: url(images/icon_02.gif?_icon) no-repeat;
+}
+.icon3{
+	background: url(images/icon_03.gif?_icon) no-repeat;
+}
+.icon4{
+	background: url(images/icon_04.png?_icon) no-repeat;
+}
+.icon5{
+	background: url(images/icon_05.png?_icon) no-repeat;
+}
+.icon6{
+	background: url(images/icon_06.png?_icon) no-repeat;
+}
